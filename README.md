@@ -38,7 +38,7 @@ example: partutil --show-fstype disk0s4
 chris@iMac-de-chris ~ % 
 ```
 
-- [x] `Build project: simply run partutil.xcworkspace`
+- [x] `Build project: simply download then run partutil.xcworkspace`
 
 Note: - The software used here is a copyright software which is available free to use. 
 - There is no code written by me, I have only update the Xcode project and the macOS Deployment Target
